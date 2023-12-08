@@ -1,0 +1,34 @@
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.exe
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.pdb
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.xml
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Form1.resources
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Resources.resources
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbproj.GenerateResource.Cache
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.exe
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.xml
+C:\Users\RYKRD\AppData\Local\Temporary Projects\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.pdb
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.exe
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.xml
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.pdb
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.exe
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.pdb
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.xml
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Resources.resources
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbproj.GenerateResource.Cache
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\Dataweb.sdf
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.exe.config
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Form2.resources
+C:\Users\RYKRD\documents\visual studio 2010\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.WEBHERE.resources
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.exe.config
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.exe
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.xml
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.pdb
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbprojResolveAssemblyReference.cache
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Form2.resources
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Resources.resources
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.WEBHERE.resources
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbproj.GenerateResource.Cache
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\Dataweb.sdf
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.exe
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.pdb
+C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.xml
