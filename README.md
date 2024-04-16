@@ -1,4 +1,4 @@
-# Navegador_WEB
+# Navega_WEB
 **Explorando a Web com Simplicidade e Eficiência: Apresentamos o Navegador VB, Uma Experiência Descomplicada de Navegação**
 
 Desenvolvemos um navegador web em linguagem Visual Basic (VB) que redefine a experiência online, priorizando a simplicidade e eficiência. Este navegador minimalista foi concebido com o objetivo claro de oferecer uma maneira direta e descomplicada de explorar a internet, sem a sobrecarga de recursos desnecessários. Seja bem-vindo ao Navegador VB, uma abordagem simplificada para navegar na web com facilidade.
