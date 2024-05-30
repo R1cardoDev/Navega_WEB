@@ -49,9 +49,9 @@
             Me.Validate()
             Me.WebfavoritosBindingSource.EndEdit()
             Me.TableAdapterManager.UpdateAll(Me.DatawebDataSet)
-            MsgBox("Salvo Com Susseso", MsgBoxStyle.Information)
+            MsgBox("Salvo com Sucesso!!", MsgBoxStyle.Information)
         Else
-            MsgBox("Digite Um Sat")
+            MsgBox("Digite um Site")
         End If
     End Sub
 
@@ -65,7 +65,7 @@
                 If ComboBox1.Text <> "" Then
                     Me.WebfavoritosBindingSource.RemoveCurrent()
                 Else
-                    MsgBox("Selecione um sat", MsgBoxStyle.Information)
+                    MsgBox("Selecione um Site", MsgBoxStyle.Information)
                 End If
         End Select
     End Sub
