@@ -32,3 +32,12 @@ C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB
 C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.exe
 C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.pdb
 C:\Users\RYKRD\Documents\Visual Studio 2015\Projects\NAVEGADOR WEB\NAVEGADOR WEB\bin\Debug\NAVEGADOR WEB.xml
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbproj.AssemblyReference.cache
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Form2.resources
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.Resources.resources
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR_WEB.WEBHERE.resources
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbproj.GenerateResource.cache
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.vbproj.CoreCompileInputs.cache
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.exe
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.xml
+C:\Users\Rykrdo\Documents\MeusProjetos\Navegador_WEB\NAVEGADOR WEB\obj\x86\Debug\NAVEGADOR WEB.pdb
